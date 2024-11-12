@@ -1,0 +1,4 @@
+1	Bob Smith	40	20.00
+2	Steve Smith	45	25.00
+3	Kevin Smith	30	10.00
+4	Sharon Smith	50	50.00
